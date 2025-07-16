@@ -5,4 +5,4 @@ This project demonstrates the implementation and analysis of two popular cluster
 The simulation is built using Arduino devices acting as sensor nodes, communicating wirelessly via Wi-Fi UDP. Practical tests include measuring energy use and analyzing data transmission efficiency.
 
 Technologies: C++, Python, Arduino IDE, WiFiUDP, distributed systems prototyping.
-
+To see the full documentation for this project, visit https://nataliaszczupak.pl/2025/07/11/heed-inteligentny-algorytm-klastrowania/
